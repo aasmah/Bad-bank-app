@@ -15,7 +15,7 @@ All data  keeps record of the accounts.
 
 #  display pages in the app.
 links?
-<img src="./public/images/home.jpg"> home page </a> 
+<img src=".main/public/images/home.jpg"> home page </a> 
 <img src="./public/images/createaccount.jpg"> Create Account page </a> 
 <img src="./public/images/deposit.jpg"> deposit page </a> 
 <img src="./public/images/withdraw.jpg"> withdraw page </a> 
