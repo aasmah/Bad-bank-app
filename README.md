@@ -1,5 +1,5 @@
 # Bad-Bank-app
-It's called a bad bank as nothing is safe in here, goes out the other way. totally insecure!
+It's called a bad bank as nothing is safe in here, it goes out the other way. totally insecure!
 
 # deploys using AWS link
 
