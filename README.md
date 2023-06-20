@@ -15,7 +15,7 @@ All data  keeps record of the accounts.
 
 #  display pages in the app.
 
-![Alt home page](home.jpg)
+![home page](./main/public/images/home.jpg)
 <img src="(https://main.djz2octhxry7k.amplifyapp.com/CreateAccount)g"> home page </a> 
 <img src="./public/images/createaccount.jpg"> Create Account page </a> 
 <img src="./public/images/deposit.jpg"> deposit page </a> 
