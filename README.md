@@ -21,11 +21,11 @@ All data  keeps record of the accounts.
 
 
 # future improvements.
- ##logout function
- ## Money transfer
- ##checking account page 
- ##saving account page
- ## making  it secure.
+ -logout function
+ - Money transfer
+ - checking account page
+ - saving account page
+ - making  it secure.
 
 
 
