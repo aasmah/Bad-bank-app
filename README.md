@@ -14,8 +14,9 @@ withdraw reduces from the balance.
 All data  keeps record of the accounts.
 
 #  display pages in the app.
-links?
-<img src=".main/public/images/home.jpg"> home page </a> 
+
+![Alt home page](home.jpg)
+<img src="(https://main.djz2octhxry7k.amplifyapp.com/CreateAccount)g"> home page </a> 
 <img src="./public/images/createaccount.jpg"> Create Account page </a> 
 <img src="./public/images/deposit.jpg"> deposit page </a> 
 <img src="./public/images/withdraw.jpg"> withdraw page </a> 
