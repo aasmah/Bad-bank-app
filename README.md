@@ -1,7 +1,7 @@
 # Bad-Bank-app
 It's called a bad bank as nothing is safe in here, it goes out the other way. totally insecure!
 
-# deploys using AWS link
+# Deployed AWS link
 
 <a href="https://main.djz2octhxry7k.amplifyapp.com"> Bank App Homepage </a>
 
