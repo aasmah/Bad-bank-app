@@ -3,7 +3,7 @@ It's called a bad bank as nothing is safe in here, it goes out the other way. to
 
 # Deployed AWS link
 
-<a href="https://main.djz2octhxry7k.amplifyapp.com"> Bank App Homepage </a>
+##<a href="https://main.djz2octhxry7k.amplifyapp.com"> Bank App Homepage </a>
 
 #  features
 navbar hover on detailsresponsive feature and collapses on small screens.
