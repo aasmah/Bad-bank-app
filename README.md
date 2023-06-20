@@ -14,12 +14,10 @@ withdraw reduces from the balance.
 All data  keeps record of the accounts.
 
 #  display pages in the app.
-
-![home page](./public/images/home.jpg)
-<img src="(https://main.djz2octhxry7k.amplifyapp.com/CreateAccount)g"> home page </a> 
-<img src="./public/images/createaccount.jpg"> Create Account page </a> 
-<img src="./public/images/deposit.jpg"> deposit page </a> 
-<img src="./public/images/withdraw.jpg"> withdraw page </a> 
+![home](https://github.com/aasmah/Bad-bank-app/assets/35153854/0c9d6a9f-103d-49e7-b513-8ed06ce75f89)
+![createaccount](https://github.com/aasmah/Bad-bank-app/assets/35153854/f9368a91-666b-4b84-b65c-b92aabd8bac8)
+![deposit](https://github.com/aasmah/Bad-bank-app/assets/35153854/30c1d5a4-c633-4e38-bd33-420d2cc9aad5)
+![withdraw](https://github.com/aasmah/Bad-bank-app/assets/35153854/269fe423-6a04-4e9f-b87c-f5f1723ebaa1)
 
 
 # future improvements.
@@ -27,6 +25,8 @@ All data  keeps record of the accounts.
  Money transfer
  checking account page 
  saving account page
+ making  it secure.
+
 
 
 
