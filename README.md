@@ -20,14 +20,12 @@ All data  keeps record of the accounts.
 ![withdraw](https://github.com/aasmah/Bad-bank-app/assets/35153854/269fe423-6a04-4e9f-b87c-f5f1723ebaa1)
 
 
-# future improvements.
+# Future improvements.
  -logout function
  - Money transfer
  - checking account page
  - saving account page
  - making  it secure.
-
-
 
 
 # Getting Started with Create React App
