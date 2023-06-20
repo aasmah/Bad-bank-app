@@ -18,6 +18,7 @@ All data  keeps record of the accounts.
 ![createaccount](https://github.com/aasmah/Bad-bank-app/assets/35153854/f9368a91-666b-4b84-b65c-b92aabd8bac8)
 ![deposit](https://github.com/aasmah/Bad-bank-app/assets/35153854/30c1d5a4-c633-4e38-bd33-420d2cc9aad5)
 ![withdraw](https://github.com/aasmah/Bad-bank-app/assets/35153854/269fe423-6a04-4e9f-b87c-f5f1723ebaa1)
+![insufficientfunds](https://github.com/aasmah/Bad-bank-app/assets/35153854/fd82d8b8-68d2-4212-a8aa-6d3b7f38cf86)
 
 
 # Future improvements.
@@ -31,6 +32,7 @@ All data  keeps record of the accounts.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
