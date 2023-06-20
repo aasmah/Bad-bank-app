@@ -22,10 +22,10 @@ All data  keeps record of the accounts.
 
 # future improvements.
  ##logout function
-## Money transfer
+ ## Money transfer
  ##checking account page 
  ##saving account page
-## making  it secure.
+ ## making  it secure.
 
 
 
