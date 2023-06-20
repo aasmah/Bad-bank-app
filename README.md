@@ -15,11 +15,11 @@ All data  keeps record of the accounts.
 
 #  display pages in the app.
 links?
-<img src=""> home page </a> 
-<img src=""> home page </a> 
-<img src=""> home page </a> 
-<img src=""> home page </a> 
-<img src=""> home page </a> 
+<img src="home.jpg"> home page </a> 
+<img src="createaccount.jpg"> Create Account page </a> 
+<img src="deposit.jpg"> deposit page </a> 
+<img src="withdraw.jpg"> withdraw page </a> 
+
 
 # future improvements.
  logout function
